@@ -1,0 +1,9 @@
+1200 600 2 1 !x, z, h, tmax
+"vp_3cam_601x301.bin"
+"ro_3cam_601x301.bin"
+"vs_3cam_601x301.bin"
+600 4 100 60 !fx, fz, A, fcorte
+5 4 !alfa, beta
+0.003 101 !fator_cerjan, pontos_cerjan
+50 !nsnap
+5 !receiver depth
